@@ -1,0 +1,23 @@
+"1. Sum, Count, and Average",
+Perform the following calculations using Excel functions:,
+? Calculate the total price of all products in the dataset.,10100
+? Determine how many products exist in the dataset.,34
+? Calculate the average price of the products.,297.0588235
+,
+Minimum and Maximum Values,
+Using Excel functions:,
+? Identify the minimum price among all products.,30
+? Identify the maximum price among all products.,1000
+,
+Logical Function – IF,
+? Create a new column named Price Range.,
+? Use the IF function to categorize products based on their price:,
+? If Price ? $500 ? classify as High Price,
+? If Price < $500 ? classify as Standard Price,
+,
+"Conditional Functions – SUMIF and COUNTIF
+Perform the following conditional calculations:",
+Use the SUMIF function to calculate the total price of products in the,8050
+Electronics category.,
+Use the COUNTIF function to determine the number of products with a price,11
+less than $100.,
